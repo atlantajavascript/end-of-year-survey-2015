@@ -1,6 +1,6 @@
 # Responses from ATL.JS End-of-Year Survey 2015
 
-responses_public.csv contains 83 survey responses. The questions that were asked are follows:
+responses_public.csv contains 83 survey responses. The survey itself is as follows.
 
 ![Welcome Screen](images/welcome.png)
 
