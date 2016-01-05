@@ -31,7 +31,9 @@ The survey was created out of our desire to:
 
 Now that we have this data, what do we do with it? Well, **you** can help with that!
 
-1. Help us make sense of the data by visualizing and/or spotting trends. Then [tell us](https://github.com/atlantajavascript/end-of-year-survey-2015/issues/new) what you found.
+1. Help us make sense of the data by
+  * Creating visualizations and [sending us a link](https://github.com/atlantajavascript/end-of-year-survey-2015/issues/new) or [pull request](https://github.com/atlantajavascript/end-of-year-survey-2015/pulls)
+  * Spotting trends then [telling us](https://github.com/atlantajavascript/end-of-year-survey-2015/issues/new) what you found.
 2. [Suggest ideas](https://github.com/atlantajavascript/end-of-year-survey-2015/issues/new) that will help us advance our goals given the trends we found in the responses collected.
 
 
