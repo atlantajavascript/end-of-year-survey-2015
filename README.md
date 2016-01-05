@@ -22,9 +22,10 @@ responses_public.csv contains 83 survey responses, except with the private conta
 
 The survey was created out of our desire to:
 
-* Welcome all members regardless of race, sex, age, skill level, and economic background. Be inclusive.
-* Help each other level up and advance in our careers.
-* Motivate each other to be more active in practicing our craft and in participating in the community.
+* Welcome all members regardless of race, sex, age, skill level, and economic background. Be inclusive
+* Help each other level up in our programming skills.
+* Help each other advance in our careers.
+* Motivate each other to be more active in participating in the community.
 
 ## Next Steps
 
