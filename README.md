@@ -36,4 +36,6 @@ Now that we have this data, what do we do with it? Well, **you** can help with t
   * Spotting trends then [telling us](https://github.com/atlantajavascript/end-of-year-survey-2015/issues/new) what you found.
 2. [Suggest ideas](https://github.com/atlantajavascript/end-of-year-survey-2015/issues/new) that will help us advance our goals given the trends we found in the responses collected.
 
-
+## Endpoint for Data
+For a bit cleaner and programmer friendly dataset, hit:
+    https://atl-js-eoy-survey.herokuapp.com
